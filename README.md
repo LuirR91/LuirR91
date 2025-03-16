@@ -1,4 +1,4 @@
-![Artboard 5-100](https://github.com/user-attachments/assets/b4c02786-6721-4291-a6de-5e0ffb4ce131)
+![Artboard 5-100](https://github.com/user-attachments/assets/805feab1-c3d5-40ab-b565-94ccb05d69f5)
 
 # 💫 About me:
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
