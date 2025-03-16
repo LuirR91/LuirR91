@@ -1,6 +1,6 @@
-<!-- Level 2: Using a README generator GPRM (https://gprm.itsvg.in) -->
+![Artboard 5-100](https://github.com/user-attachments/assets/b4c02786-6721-4291-a6de-5e0ffb4ce131)
 
-# 💫 Hi, I'm Luis!
+# 💫 About me:
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied [Computer Science](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of Otago, New Zealand<br/>
 🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
