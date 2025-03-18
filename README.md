@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🔐 Software Developer transitioning from design to cybersecurity<br/>
-🎓 Studying Software Development at 42 Lisbon<br/>
+🎓 Studying Software Development | Computer Science at 42 Lisbon<br/>
 ⚙️ Exploring DevSecOps, automation, and cloud security<br/>
 🐧 Passionate about Linux, scripting, and system hardening<br/>
 📖 #learninginpublic while building secure and scalable systems<br/>
