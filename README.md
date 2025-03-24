@@ -1,7 +1,7 @@
 ![Artboard 5-100](https://github.com/user-attachments/assets/805feab1-c3d5-40ab-b565-94ccb05d69f5)
 
 # 💫 About Me:
-🔐 Software Developer currently studying at 42 Lisbon programming school<br/>
+🔐 Software Developer transitioning from design to cybersecurity<br/>
 🎓 Studying Software Development | Computer Science at 42 Lisbon<br/>
 ⚙️ Exploring DevSecOps, automation, and cloud security<br/>
 🐧 Passionate about Linux, scripting, and system hardening<br/>
