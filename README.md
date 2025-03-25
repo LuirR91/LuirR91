@@ -1,4 +1,4 @@
-![Artboard 5-100](https://github.com/user-attachments/assets/805feab1-c3d5-40ab-b565-94ccb05d69f5)
+![Artboard 5-100](https://github.com/user-attachments/assets/c28a8d80-1f33-47b1-97b3-44d11e1a683a)
 
 # 💫 About Me:
 🔐 Software Developer transitioning from design to cybersecurity<br/>
