@@ -1,14 +1,17 @@
 ![Artboard 5-100](https://github.com/user-attachments/assets/c28a8d80-1f33-47b1-97b3-44d11e1a683a)
 
-# 💫 About Me:
-🔐 Software Developer transitioning from Design<br/>
-🎓 Studying Software Development | Computer Science at 42 Lisbon<br/>
-⚙️ Exploring DevSecOps, automation, and cloud security<br/>
-🐧 Passionate about Linux, scripting, and system hardening<br/>
-📖 #learninginpublic while building secure and scalable systems<br/>
+💫 About Me:
+
+👨‍💻 Junior Software Engineer at Caixa Geral de Depósitos (CGD) | Devops & Specialized Credit Unit
+🎓 Pursuing a Master’s in Enterprise Cybersecurity & AI @ NOVA IMS
+🚀 42 Lisbon Alumni | Strong foundation in systems programming (C/C++) and Linux
+⚙️ Currently working with .NET, C#, SQL, and building scalable enterprise systems
+🌱 Exploring the intersection of Software Engineering, Cybersecurity, and AI
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+**Languages:** C | C++ | C# | Python | Bash | SQL
+**Systems & Networking:** Linux | TCP/IP | Socket Programming | SSH
+**Tools & Infra:** Docker | Git | NGINX | MariaDB | CI/CD
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LuirR91&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
