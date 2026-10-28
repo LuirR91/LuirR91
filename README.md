@@ -2,11 +2,11 @@
 
 💫 About Me:
 
-👨‍💻 Junior Software Engineer at Caixa Geral de Depósitos (CGD) | Devops & Specialized Credit Unit
-🎓 Pursuing a Master’s in Enterprise Cybersecurity & AI @ NOVA IMS
-🚀 42 Lisbon Alumni | Strong foundation in systems programming (C/C++) and Linux
-⚙️ Currently working with .NET, C#, SQL, and building scalable enterprise systems
-🌱 Exploring the intersection of Software Engineering, Cybersecurity, and AI
+👨‍💻 Junior Software Engineer at Caixa Geral de Depósitos (CGD) | Devops & Specialized Credit Unit<br/>
+🎓 Pursuing a Master’s in Enterprise Cybersecurity & AI @ NOVA IMS<br/>
+🚀 42 Lisbon Alumni | Strong foundation in systems programming (C/C++) and Linux<br/>
+⚙️ Currently working with .NET, C#, SQL, and building scalable enterprise systems<br/>
+🌱 Exploring the intersection of Software Engineering, Cybersecurity, and AI<br/>
 
 # 💻 Tech Stack:
 **Languages:** C | C++ | C# | Python | Bash | SQL
