@@ -9,9 +9,9 @@
 🌱 Exploring the intersection of Software Engineering, Cybersecurity, and AI<br/>
 
 # 💻 Tech Stack:
-**Languages:** C | C++ | C# | Python | Bash | SQL
-**Systems & Networking:** Linux | TCP/IP | Socket Programming | SSH
-**Tools & Infra:** Docker | Git | NGINX | MariaDB | CI/CD
+**Languages:** C | C++ | C# | Python | Bash | SQL<br/>
+**Systems & Networking:** Linux | TCP/IP | Socket Programming | SSH<br/>
+**Tools & Infra:** Docker | Git | NGINX | MariaDB | CI/CD<br/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LuirR91&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
